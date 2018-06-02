@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# local config
+config/config.local.js
+
+# Build
+public/app.js
+public/app.js.map
+public/app.css
+public/app.css.map
